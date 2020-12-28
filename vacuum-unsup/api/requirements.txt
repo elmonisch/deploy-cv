@@ -1,0 +1,10 @@
+numpy
+opencv-python
+fastapi
+uvicorn
+efficientnet_pytorch
+torchvision
+pydantic
+Pillow
+typing
+torch
